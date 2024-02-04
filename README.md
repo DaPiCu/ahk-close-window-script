@@ -11,3 +11,7 @@ An Autohotkey script designed to **minimize and restore** your browser with the 
 3. Enjoy your script 👀
 
 *If you prefer to trigger the script using different key combinations other than the default* **"CTRL + SPACE,"** *you can customize it in programs like Visual Studio Code.*
+
+>*Currently only available for the following browsers:* **Thorium, Chrome, Firefox, and Opera.**
+>
+>*If you want to include additional browsers, you can easily add them in the* ***AHK file.***
