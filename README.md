@@ -1,7 +1,7 @@
 # Autohotkey Close Browser Script
 
 An Autohotkey script designed to **minimize and restore** your browser with the keys ***CTRL + Space***
-> *A quick way to discreetly close a tab you don't want your parents to see* 👀
+> *A quick way to discreetly close a tab you don't want your parents or other people to see* 👀
 
 ![Script Image](https://i.imgur.com/05zYGof.png)
 
